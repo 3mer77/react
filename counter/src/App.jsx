@@ -11,11 +11,13 @@ function App() {
 
     // counter += 1
 
-    setcounter((prevcounter) => prevcounter + 1);
-    setcounter((prevcounter) => prevcounter + 1);
-    setcounter((prevcounter) => prevcounter + 1);
-    setcounter((prevcounter) => prevcounter + 1);
-    setcounter((prevcounter) => prevcounter + 1);
+    // setcounter((prevcounter) => prevcounter + 1);
+    // setcounter((prevcounter) => prevcounter + 1);
+    // setcounter((prevcounter) => prevcounter + 1);
+    // setcounter((prevcounter) => prevcounter + 1);
+    // setcounter((prevcounter) => prevcounter + 1);
+
+    setcounter(counter + 1)
 
   
   }

@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-        <h1>Hello {username} there this a vite/react app !!</h1>
+        <h1 className='text-3xl bg-green-50 rounded'>Hello {username} there this a vite/react app !!</h1>
         <Youtube/>
     </>
   )
